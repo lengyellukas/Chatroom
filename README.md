@@ -20,7 +20,9 @@ Each message is displayed to all connected users including the name of the sende
 User can leave the chatroom. Number of online users decreases by 1.
 
 ### Run the application with command:
+```
 mvn spring-boot:run
+```
 
 Open at least two browser and navigate to localhost:8080 to test chat functionality
 
